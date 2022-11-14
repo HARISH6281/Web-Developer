@@ -1,0 +1,16 @@
+we have 6 types of headings all vary according to size.
+h1 to h6
+
+we have short cut to generate p tags 10 times or whatever number of times
+
+p*10
+p*2
+p*4
+
+
+//whenever we have long words or sentences that are out of the screen 
+
+go to command palatte --> toggle word wrap it fits all words in the screen
+
+//lorem4--four words
+lorem 40 --fourty words
