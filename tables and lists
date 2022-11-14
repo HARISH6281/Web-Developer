@@ -1,0 +1,14 @@
+tables --- table,thead,tbody
+
+tr-row
+th-heading
+td-data
+
+lists two types
+
+ol--ordered list 
+A,a,i,I
+
+ul-unordered list
+
+disc,square,circle
