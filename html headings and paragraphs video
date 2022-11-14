@@ -14,3 +14,10 @@ go to command palatte --> toggle word wrap it fits all words in the screen
 
 //lorem4--four words
 lorem 40 --fourty words
+
+//br is break and self closing tag
+
+//hr -- horizontal ruler used to a --------------------------------------------------------------------------
+
+<strong> -- for bold letters
+<em>--emphasized for italic
