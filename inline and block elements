@@ -1,0 +1,7 @@
+inline--it will continue on the same line
+block --starts on fresh line
+
+block -- uses as much width as possible.
+div,p
+inline --uses required space
+li,em
