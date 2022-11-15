@@ -1,0 +1,11 @@
+id--uniquely identifies the element
+classes -- to definr various properties to the element
+
+short cut:
+div.any---class
+div#any--id
+div.any*5----5 lines
+.any---div class
+#any---div id
+span.any----span class
+span#any---span id
